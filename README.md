@@ -1,5 +1,4 @@
-# Discrete-Probability-Detector-in-VB6
-Discrete Probability Detector in VB6
+# Discrete Probability Detector in VB6
 
 
 ![screenshot](https://github.com/Gagniuc/Discrete-Probability-Detector-in-VB6/blob/main/screenshot/DPD%20(1).PNG)
